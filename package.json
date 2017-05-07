@@ -1,0 +1,63 @@
+{
+  "name": "project-dirs",
+  "version": "0.0.0",
+  "description": "Get a list of paths to all of your projects.",
+  "homepage": "https://github.com/sholladay/project-dirs",
+  "main": "index.js",
+  "author": {
+    "name": "Seth Holladay",
+    "url": "http://seth-holladay.com",
+    "email": "me@seth-holladay.com"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sholladay/project-dirs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sholladay/project-dirs/issues",
+    "email": "me@seth-holladay.com"
+  },
+  "engines": {
+    "node": ">=7.6"
+  },
+  "license": "MPL-2.0",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "children-dirs": "^1.0.1",
+    "code-dir": "^0.2.0"
+  },
+  "devDependencies": {
+    "ava": "^0.18.1",
+    "eslint-config-tidy": "^0.4.0",
+    "mkdirtemp": "^1.1.0",
+    "xo": "^0.18.0"
+  },
+  "keywords": [
+    "search",
+    "walk",
+    "find",
+    "down",
+    "repo",
+    "repos",
+    "repository",
+    "repositories",
+    "pkg",
+    "packages",
+    "project",
+    "projects",
+    "dir",
+    "dirs",
+    "directory",
+    "directories",
+    "path",
+    "paths"
+  ],
+  "xo": {
+    "extend": "tidy"
+  }
+}
