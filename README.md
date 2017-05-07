@@ -45,6 +45,10 @@ Default: `process.cwd()`
 
 The directory of a project or one of its descendants, marking where to end the downwards search for projects.
 
+## Related
+
+ - [code-dir](https://github.com/sholladay/code-dir) - Find the parent directory for top level projects
+
 ## Contributing
 
 See our [contributing guidelines](https://github.com/sholladay/project-dirs/blob/master/CONTRIBUTING.md "The guidelines for participating in this project.") for more details.
