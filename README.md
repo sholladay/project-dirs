@@ -1,4 +1,4 @@
-# project-dirs [![Build status for project-dirs on Circle CI.](https://img.shields.io/circleci/project/sholladay/project-dirs/master.svg "Circle Build Status")](https://circleci.com/gh/sholladay/project-dirs "Project Dirs Builds")
+# project-dirs [![Build status for Project Dirs](https://img.shields.io/circleci/project/sholladay/project-dirs/master.svg "Build Status")](https://circleci.com/gh/sholladay/project-dirs "Builds")
 
 > Get a list of paths to all of your projects.
 
@@ -51,16 +51,16 @@ The directory of a project or one of its descendants, marking where to end the d
 
 ## Contributing
 
-See our [contributing guidelines](https://github.com/sholladay/project-dirs/blob/master/CONTRIBUTING.md "The guidelines for participating in this project.") for more details.
+See our [contributing guidelines](https://github.com/sholladay/project-dirs/blob/master/CONTRIBUTING.md "Guidelines for participating in this project") for more details.
 
 1. [Fork it](https://github.com/sholladay/project-dirs/fork).
 2. Make a feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. [Submit a pull request](https://github.com/sholladay/project-dirs/compare "Submit code to this project for review.").
+5. [Submit a pull request](https://github.com/sholladay/project-dirs/compare "Submit code to this project for review").
 
 ## License
 
-[MPL-2.0](https://github.com/sholladay/project-dirs/blob/master/LICENSE "The license for project-dirs.") © [Seth Holladay](http://seth-holladay.com "Author of project-dirs.")
+[MPL-2.0](https://github.com/sholladay/project-dirs/blob/master/LICENSE "License for project-dirs") © [Seth Holladay](https://seth-holladay.com "Author of project-dirs")
 
 Go make something, dang it.
